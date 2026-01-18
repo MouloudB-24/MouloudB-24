@@ -2,9 +2,8 @@
 
 ## 🚀 Data Engineer Junior | Big Data | Cloud & Automatisation
 
-🎯 **Data Engineer junior** avec un parcours Bac+5, en reconversion vers la data engineering, orienté **automatisation**, **industrialisation** et **mise en production de systèmes data fiables et performants**.
-
-J’aime concevoir des **pipelines de données robustes**, travailler sur des **architectures distribuées** et déployer des **plateformes data prêtes pour la production dans le cloud**. Mon objectif à moyen terme est d’évoluer vers la **Data Engineering avec une composante MLOps / IA**.
+🎯 **Data Engineer junior**, avec un solide socle scientifique et une forte culture industrielle.
+Mon approche est pragmatique : **des données bien structurées**, **des pipelines automatisés** et **des systèmes fiables en production.**
 
 ---
 
