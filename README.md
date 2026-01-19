@@ -28,7 +28,7 @@ Mon approche est pragmatique : **des données bien structurées**, **des pipelin
 
 ### ☁️ Cloud, DevOps & Outils
 
-* Microsoft Azure
+* AWS
 * Docker & Docker Compose
 * Git & GitHub Actions (CI/CD)
 * Linux
