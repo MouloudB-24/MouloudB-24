@@ -99,8 +99,11 @@ Mon approche : **des données bien structurées, des pipelines automatisés, des
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MouloudB-24&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MouloudB-24&layout=compact&theme=default&hide_border=true" alt="Top Langs" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MouloudB-24&theme=default&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MouloudB-24&theme=default" alt="Profile Details" />
 </p>
 
 ---
